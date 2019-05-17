@@ -1,0 +1,32 @@
+\defbibheading{bibintoc}[\bibname]{%
+  \addchap{#1}}
+\PassOptionsToPackage{toc=bib}{biblatex}
+\usepackage{booktabs}
+\usepackage{amsthm}
+\usepackage[tt=false]{libertine}
+\setmonofont{consolas}
+\usepackage{microtype}
+\usepackage{csquotes}             %für richtige Anführungszeichen
+\usepackage{hanging}								%ermöglicht hängenden Einzug
+
+%KOPFZEILE
+\usepackage[automark] {scrpage2}            % Kopf- und Fußzeilen
+\pagestyle{scrheadings}                % [] - erste Seite, {} - alle anderen
+\setkomafont{pageheadfoot}{}
+%\ihead[]{\Titel~}                      % linke Kopfzeile
+\chead[]{}                              % mittlere Kopfzeile, leer
+\ohead[]{}                    % rechte Kopfzeile
+%\ifoot[]{}                              % linke Fußzeile
+\cfoot[]{}                              % mittlere Fußzeile
+\ofoot[\pagemark]{\pagemark}                              % rechte Fußzeile
+%\setheadtopline{.4pt}                  % Linien über/ unter Kopf-/ Fußzeile
+%\setheadsepline{1.2pt}
+%\setfootsepline{2pt}
+%\setfootbotline{.4pt}
+\setlength\parindent{0pt}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother

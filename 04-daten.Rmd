@@ -1,0 +1,25 @@
+Forschung mit personenbezogenen Daten
+=====================================
+
+In der Mathematikdidaktik sind wir häufig darauf angewiesen, mit Daten
+aus der Schule und dem Schulumfeld zu arbeiten. Diese mögen in Tests,
+Fragebögen, Mitschnitten von Interviews und Gruppendiskussionen oder in
+Unterrichtsvideos enthalten sein. Schnell geht es dabei um
+*personenbezogene Daten*. Dies sind nach dem Bremischen
+Datenschutzgesetz “Einzelangaben über persönliche oder sachliche
+Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person”
+(§2(1) BremDSG). Um einen ordentlichen Umgang mit solchen Informationen
+über Schüler\_innen, Lehrer\_innen und Eltern sicherzustellen, müssen je
+nach Form der Datenerhebung Anträge gestellt, verantwortliche Personen
+informiert und/oder Einverständniserklärungen eingeholt werden. Das Land Bremen bietet online eine [Aufstellung der unterschiedlichen Verfahren, die hier zu
+befolgen sind](https://www.bildung.bremen.de/sixcms/detail.php?gsid=bremen117.c.5312.de).
+Eine Übersicht über ähnliche Verfahren in anderen Bundesländern findet
+sich unter https://www.forschungsdaten-bildung.de/genehmigungen.^[Zu beachten ist hier, dass die Informationen nur unregelmäßig
+    aktualisiert werden. Ausschlaggebend sind letztlich immer die
+    Angaben der entsprechenden Behörden.]
+
+Die genannten Verfahren lassen sich teilweise schnell erledigen,
+bedeuten manchmal aber auch eine erhebliche Mehrbelastung in der
+Vorbereitung einer Datenerhebung. Es sollte also frühzeitig geklärt
+werden, welches Verfahren notwendig ist und welche Vorkehrungen zu
+treffen sind.

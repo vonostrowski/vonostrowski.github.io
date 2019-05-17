@@ -1,0 +1,318 @@
+Wissenschaftliche Standards
+===========================
+
+In wissenschaftlichen Texten darf angenommen werden, dass alles, was
+nicht explizit gekennzeichnet ist, eine eigene und neue Leistung des
+Autors oder der Autorin ist. Dies bedeutet erstens, dass alles, was
+nicht eigene Leistung ist, gekennzeichnet werden muss. Dabei sollte
+insbesondere bedacht werden, dass auch Ideen Urheber\_innen haben,
+selbst wenn darauf aufbauend eine Eigenleistung vollbracht wurde. Das
+gilt auch und insbesondere für Aufgaben, Unterrichtsplanungen,
+Interviewleitfäden und ähnliches. Zweitens sind auch jene Gedankengänge
+zu kennzeichnen, die die Autorin oder der Autor schon an anderer Stelle
+geäußert hat. Wenn beispielsweise die Idee einer bestimmten
+Herangehensweise an ein Thema in einer vorherigen Hausarbeit entstanden
+ist, muss dies angegeben werden.
+
+Verweise auf eigene, nicht veröffentlichte Arbeiten können in Fußnoten
+angebracht werden. Dort kann dann beispielsweise stehen: “Die Idee zu
+dieser Lernumgebung habe ich bereits in meiner Hausarbeit im Modul D4
+entwickelt, hier soll sie nun weiter ausgearbeitet werden.”
+
+Meistens müssen allerdings hauptsächlich Veröffentlichungen anderer
+Autor\_innen korrekt und nachvollziehbar angegeben werden. Dazu gehört
+zweierlei: Im Text wird direkt angegeben, woher die verwendeten
+Informationen oder der zitierte Gedanke stammt: Mit der *Zitation* wird
+in Kurzform auf das *Literaturverzeichnis* verwiesen, das am Ende der
+Arbeit steht.
+
+Es gibt verschiedene Konventionen, wie Quellenbelege und
+Literaturverzeichnis anzulegen sind. In der Mathematikdidaktik hat sich
+der von der *American Psychologists Association* vorgeschlagene Stil
+(APA-Stil) durchgesetzt. Hierbei gibt man im laufenden Text einen
+Kurztitel und gegebenenfalls die Seitenzahl an, im Literaturverzeichnis
+kann dann nachgeschlagen werden, um welche Quelle es genau geht. Im
+Folgenden werden diejenigen Teile des APA-Stils dargestellt, die beim
+Schreiben einer Hausarbeit üblicherweise zu berücksichtigen sind. Sollte
+darüber hinausgehend Klärungsbedarf bestehen, bietet in der Regel der
+Leitfaden des [Perdue Online Writing Labs](http://owl.english.purdue.edu/owl/section/2/10/) Rat.
+
+### Anmerkung zum Urheberrecht {#anmerkung-zum-urheberrecht .unnumbered}
+
+Es sollte an dieser Stelle deutlich gemacht werden, dass die hier
+vermittelten Standards des wissenschaftlichen Arbeitens nicht
+unmittelbar mit dem Urheberrecht zusammenhängen. Einerseits ist zu
+beachten, dass auch Quellen als solche anzugeben sind, bei denen die
+Urheber\_innen einer Weiterverwendung durch Dritte zustimmen oder diese
+sogar besonders ermutigen, wie etwa die Wikipedia^[An dieser Stelle ein nützlicher Hinweis: Zu jedem
+    Wikipedia-Artikel lassen sich sämtliche für eine ordentliche
+    Quellenangabe notwendigen Informationen auflisten. Der Link “Seite
+    zitieren” findet sich links neben dem Artikel.] oder
+Aufgabenformate aus Zeitschriften für Lehrkräfte (vgl.
+Abschnitt [Zeitschriften](#zeitschriften). Andererseits entbindet das
+wissenschaftliche Arbeiten nicht von der Befolgung des Urheberrechts. So
+ist zwar das Zitieren von Textpassagen in wissenschaftlichen Arbeiten
+explizit erlaubt, dem Kopieren der Werke anderer (sei es analog oder
+digital) sind jedoch Grenzen gesetzt.
+
+Quellenbelege im Text
+---------------------
+
+### Wörtliche Zitate
+
+Bei wörtlichen Zitaten wird der Text unmittelbar aus dem Original
+übernommen, die zitierte Passage wird durch Anführungszeichen kenntlich
+gemacht. Danach folgt in Klammern die *Zitation*, bestehend aus den
+Namen der Autor\_innen, dem Jahr, in dem der Text veröffentlicht wurde
+sowie der Angabe der Seitenzahl, auf der sich das Zitat finden lässt.
+Bei *einer Autorin/einem Autor* oder *einer Institution* sieht das
+folgendermaßen aus:
+
+> (Christiansen, 2009, S. 43)^[Alle hier beispielhaft aufgeführten Zitationen sind
+    Fantasieprodukte, daher finden sich auch keine dazugehörigen Quellen
+    im Literaturverzeichnis dieses Kompendiums. Wenn es sich tatsächlich
+    um Zitationen handeln würde, wäre dies natürlich ein grober Verstoß
+    gegen die Regeln.]
+>
+> (Institut für Bildung und Forschung, 2005, S. 188)
+
+Bei *mehreren Autor\_innen* werden die Namen in der Reihenfolge genannt,
+in der sie auch im Literaturverzeichnis auftreten, der letzte Name wird
+dabei durch ein und-Zeichen abgetrennt:
+
+> (Siebert, Traut & Zech, 2012, S. 3)
+
+Bei *drei bis fünf Autor\_innen* darf nach der ersten Nennung allerdings
+auf die Nennung aller Autor\_innen verzichtet werden. Es wird dann nur
+noch der erste Name genannt und auf die weiteren mit “et al.” (kurz für
+“et alii/aliae” – lateinisch für “und andere”) hingewiesen:
+
+> (Siebert et al., 2012, S. 3)
+
+Bei *mehr als fünf Autor\_innen* ist dieses Vorgehen von Anfang an
+zulässig.
+
+Erstreckt sich das *Zitat über zwei Seiten*, wird folgendermaßen
+zitiert:
+
+> (Anderson & Rademacher, 1976, S. 3 f.)
+
+Wenn der\_die *Autor\_in ohnehin im Fließtext* genannt wird und
+unmittelbar klar wird, wird sein\_ihr Name nicht mehr in Klammern
+gesetzt:
+
+> Darauf weist auch Kaspers hin, wenn sie von “selbstreproduzierenden
+> Situationen” (1975, S. 25) spricht.
+
+Wenn das Original *Fehler* enthält (oder in alter Rechtschreibung
+verfasst ist), wird dies unverändert übernommen. Falls es in irgendeiner
+Weise wichtig ist, kann man jedoch darauf hinweisen, dass der Fehler
+bemerkt wurde, indem man an der entsprechenden Stelle einfügt: (sic) –
+lateinisch für “so” oder “wirklich so”.
+
+Wenn *Änderungen am Zitat* unumgänglich sind, werden diese stets
+kenntlich gemacht:
+
+Auslassungen
+
+:   Wenn ein Teil des Zitats weggelassen wird, wird dies durch drei
+    Punkte in eckigen Klammern gekennzeichnet:
+    […]. Es ist darauf zu achten, dass die
+    Auslassung nicht sinnentstellend ist!
+
+Einfügungen und grammatikalische Anpassungen
+
+:   Um Zitate in den Textfluss zu integrieren, ist es erlaubt,
+    Anpassungen vorzunehmen, etwa indem die Wortendungen entsprechend
+    angepasst werden oder (Hilfs-)Verben eingefügt werden. Solche
+    Einfügungen werden ebenfalls durch eckige Klammern
+    kenntlich gemacht.
+
+Hervorhebungen
+
+:   Soll im Zitat ein bestimmter Ausdruck oder Abschnitt hervorgehoben
+    werden, wird dieser *kursiv gesetzt*. Am Ende des Zitats wird der
+    Quellenangabe dann ein kurzer Hinweis hinzugefügt, dass die
+    Hervorhebung nachträglich hinzugefügt wurde:
+
+    > Das ist gemeint, wenn dieser Ansatz in der Sekundärliteratur als
+    > “kultur-*historisch*” (Ngane, 2013, S. 251, Hervorh. durch d.
+    > Verf.) bezeichnet wird.
+
+    Wenn die Hervorhebung schon im Original bestand, schreibt man an der
+    entsprechenden Stelle “Hervorhebung im Original”.
+
+*Längere wörtliche Zitate* ab 40 Wörtern werden eingerückt und die
+Anführungszeichen werden weggelassen.
+
+Gerade ältere Bücher sind oft nicht einfach zu erhalten, und dennoch
+wissen Sie vielleicht, dass ein wichtiger Gedanke dort formuliert wurde.
+Wenn Sie ein Zitat nicht selbst recherchiert haben, sondern *aus einer
+anderen Arbeit* übernehmen, müssen Sie kenntlich machen, dass sie die
+Quelle nicht selbst überprüft haben. Sie schreiben dann
+
+> (Martens, 1905, zit. n. Kalbs, Richter & Löb, 2011, S. 345)
+
+Die ursprüngliche Quelle (im Beispiel das Werk von Martens) taucht lediglich in diesem Verweis auf, in Ihrem Literaturverzeichnis führen Sie nur das Werk auf, das sie tatsächlich gelesen haben (im Beispiel Kalbs, Richter & Lob). So stellen Sie auch sicher, dass eine falsche Einordnung des Zitats, die den Autor\_innen hier unter Umständen unterlaufen ist, nicht Ihnen zur Last gelegt wird.
+
+### Sinngemäße Zitate
+
+Nicht nur wörtliche Zitate müssen kenntlich gemacht werden. Auch wenn
+man einen Gedankengang, eine Idee, eine methodische Herangehensweise
+oder ein Unterrichtsdesign ganz oder teilweise übernimmt, ist ein
+Quellenhinweis fällig. Prinzipiell werden Zitationen genauso gesetzt wie
+bei wörtlichen Zitaten.
+
+Es ist allerdings denkbar, dass sich das Zitat auf eine längere Passage
+bezieht, die sich *über mehrere Seiten* erstreckt. Bei Textstellen über
+drei Seiten kann man dabei wie weiter oben gezeigt vorgehen, verwendet
+aber “ff.” statt “f.”, bei längeren Abschnitten gibt man den
+Seitenbereich folgendermaßen an:
+
+> (Ahrens, 2001, S. 3--9)
+
+Wenn die entsprechende Idee Thema eines Aufsatzes ist, kann die Angabe
+der Seitenzahl auch ganz weggelassen werden.
+
+Auch bei sinngemäßen Zitaten kann auf eine Nennung der Autor\_innennamen
+verzichtet werden, wenn sie *schon im Fließtext* auftauchen. In diesem
+Fall wird die Jahres- und ggf. die Seitenzahl direkt im Anschluss daran
+in Klammern eingefügt:
+
+> Anders als Krüss und Goncalves (1987), die die Größe der Lerngruppe
+> als irrelevant ansehen, halten wir eine Unterscheidung zwischen
+> Paararbeit und Gruppenarbeit in größeren Gruppen für unumgänglich.
+
+Man beachte, dass hier gar keine Seitenzahl mehr angegeben wurde. Dies
+ist nur dann zulässig, wenn der zitierte Gedanke wirklich aus dem
+Gesamtwerk gezogen wird. Hier müsste es also so sein, dass die
+Autor\_innen die zitierte Argumentation zum Gegenstand eines ganzen
+Artikels oder gar Buches gemacht haben.
+
+### Verwendung von Fußnoten {#verwendung-von-fußnoten .unnumbered}
+
+Fußnoten werden im APA-Stil, anders als etwa in den Rechtswissenschaften
+üblich, nicht für die Angabe von Quellen verwendet. Sie können aber
+hilfreich sein, wenn auf weiterführende Literatur und von der
+eigentlichen Thematik abweichende Gedankengänge verwiesen oder einer
+Person für einen Hinweis gedankt werden soll. Lange Exkurse, die den
+eigentlichen Themenbereich der Arbeit verlassen, sollten aber vermieden
+werden.
+
+Das Literaturverzeichnis
+------------------------
+
+Das Literaturverzeichnis wird grundsätzlich alphabetisch nach den Namen
+der Erstautor\_innen sortiert, Arbeiten des selben Autors/der selben
+Autorin werden nach aufsteigender Jahreszahl sortiert. Wird in der
+Arbeit auf mehrere Publikationen eines Autors/einer Autorin aus dem
+selben Jahr verwiesen, werden diese mit a, b, c usw. durchbuchstabiert.
+Alle Einträge des Literaturverzeichnisses werden mit einem hängendem
+Einzug von einem halben Zoll (entspricht 1<span>,</span>27cm) gesetzt^[In der Online-Version dieses Kompendiums kann dies aus technischen Gründen nicht umgesetzt werden -- bitte sehen Sie sich das Literaturverzeichnis der PDF-Version an, um einen Eindruck zu bekommen.] –
+dies wird aber sicher kein\_e Dozent\_in nachmessen. Wie ein Werk im
+Literaturverzeichnis auftritt, hängt vom Typ der Publikation ab – und
+man muss leider sagen, dass sich im APA-Stil einige Regeln finden, die
+willkürlich oder gar unlogisch erscheinen. Im Folgenden wird die
+Darstellung im Literaturverzeichnis für diejenigen Publikationstypen
+dargestellt, denen Sie wahrscheinlich begegnen werden.
+
+### Monographie (ein durchgehendes Werk, im Gegensatz zum Sammelband) mit einem Autor/einer Autorin {#monographie-ein-durchgehendes-werk-im-gegensatz-zum-sammelband-mit-einem-autoreiner-autorin .unnumbered}
+
+\hangpara{0.5in}{1}Rijkaard, T. (1998). *Vom Entstehen einer Sprache* (3. Aufl.). Berlin: Hauser.
+
+Man beachte hier, dass bei Büchern (also auch den folgenden beiden
+Publikationstypen) die Auflage in Klammern (und nicht mehr kursiv, aber
+vor dem Punkt!) angegeben werden muss, sofern es sich nicht um die
+Erstauflage handelt.
+
+### Monographie mit mehreren Autor\_innen {#monographie-mit-mehreren-autor_innen .unnumbered}
+
+\hangpara{0.5in}{1}Simonsen, J., Roth, D. A. & Zahl, U. (2001). *The teacher and his
+students: Personal relations and professionality*. London: Oak Prints.
+
+Im englischen Original sieht der APA-Standard ein *serial comma*, also
+ein Komma vor dem und-Zeichen vor. Da dies im Deutschen jedoch anders
+als im Englischen (wo man sich darüber abendfüllend streiten kann)
+völlig unüblich ist, können wir es fortlassen.
+
+Bei mehr als sieben Autor\_innen werden die ersten sechs Namen wie auch sonst geschrieben, die folgenden bis auf den letzten werden durch Auslassungspunkte ersetzt:
+
+\hangpara{0.5in}{1}Oguz, A., Penrose, D., Sievers, T., Nothman, J, Larouche, P., Michel, A., ... Peters, T. (2001). *Teamwork*. Karlsruhe: Dannemann.
+
+Die Regeln für den Umgang mit mehreren Autor_innen gelten ebenso für alle weiteren Publikationstypen.
+
+### Sammelband {#sammelband .unnumbered}
+
+\hangpara{0.5in}{1}Othendorf, D. (Hrsg.). (1954). *Neue Wege zur Mathematik: Ein Überblick*. Leipzig: Siebald.
+
+### Beitrag in einem Sammel- oder Tagungsband {#beitrag-in-einem-sammel--oder-tagungsband .unnumbered}
+
+\hangpara{0.5in}{1}Klose, H. (1954). Lernen durch Nachahmen. In D. Othendorf (Hrsg.), *Neue
+Wege zur Mathematik. Ein Überblick* (S. 84--102). Leipzig: Siebald.
+
+Hier ist zu beachten, dass bei den Herausgeber\_innen nun -– zugegeben
+inkonsequenterweise –- die Initialien der Vornamen vor dem Nachnamen
+stehen und danach ein Komma gesetzt wird. In englischsprachigen Arbeiten
+steht in Klammern statt “Hrsg.” die Abkürzung “Ed.” bzw. “Eds.”.
+
+### Zeitschriftenartikel {#zeitschriftenartikel .unnumbered}
+
+\hangpara{0.5in}{1}Raabe, L. M. & Less, W. (2006). Erst eins, dann zwei, dann drei, dann
+vier: Advent im Mathematikunterricht. *Ideen zum Mathematikunterricht,
+11*(2), 24--30.
+
+
+Auch wenn sich vieles heute online finden lässt, so muss man doch immer
+wieder Artikel aus papiernen Zeitschriften und Sammelbänden kopieren
+oder einscannen. Dabei empfiehlt es sich, stets auch eine Seite zu
+kopieren, auf der sich die Informationen zu der Publikation finden, in
+dem der Artikel erschienen ist, also das Deckblatt oder das Impressum.
+Dies erspart Ihnen später unter Umständen Arbeit. Alternativ können Sie
+von Anfang an eine Literaturverwaltungssoftware (siehe
+Abschnitt [Software als Hilfe](#sec:software)) nutzen, um diese Informationen zu erfassen.
+
+
+### Internetquellen {#internetquellen .unnumbered}
+
+Bei der Angabe von Internetquellen gibt es verschiedene Formate,
+abhängig davon, um was für eine Quelle es sich genau handelt. Bitte
+beziehen Sie sich auf einen der im Internet zur Verfügung stehenden
+Leitfäden. Generell beherzigen sollte man jedoch zwei Hinweise:
+
+-   Internetquellen sind flüchtige Quellen. Deshalb empfiehlt es sich,
+    die entsprechenden Webseiten beziehungsweise Dokumente
+    herunterzuladen, sodass man sie auch dann noch verwerten kann, wenn
+    sie nicht mehr online sind.
+
+-   Aus dem gleichen Grund ist es für die Leser\_innen Ihrer Arbeit
+    interessant, wann sie die entsprechende Quelle abgerufen haben. Auch
+    wenn dies in den APA-Richtlinien nicht vorgesehen ist, sollten sie
+    daher der Quelle diese Information beifügen. Dies geschieht
+    beispielsweise, indem sie ihr am Ende hinzufügen: (abgerufen am 12.
+    Oktober 2013).
+
+Software als Hilfe {#sec:software}
+------------------
+
+Sowohl für Textverarbeitungsprogramme wie Microsoft Word oder Libre
+Office als auch für das Textsatzprogamm LaTeX gibt es Software, die die
+Literaturverwaltung und das Verweisen auf Quellen erleichtern und
+verhindern, dass man dabei formale Fehler macht. Ein Überblick über die
+Eigenschaften der verschiedenen Angebote findet sich in der Wikipedia:
+[Comparison of reference management software](http://en.wikipedia.org/wiki/Comparison\_of\_reference\_management\_software).
+Für die Angehörigen und Mitglieder der bremischen Hochschulen sind die
+Literaturverwaltungssysteme Citavi und RefWorks in der Vollversion durch
+eine Campuslizenz der Staats- und Universitätsbibliothek frei
+zugänglich. Nähere Informationen zu den beiden Programmen und ihrer
+Nutzung erhalten Sie unter
+http://www.suub.uni-bremen.de/literatur-verwalten/refworks/.
+
+In LaTeX wird die Formatierung der Zitationen und des
+Literaturverzeichnisses allerdings nicht von der externen Software übernommen, sondern muss über ein Paket bewerkstelligt werden, das auf Ihre Datenbank in Form einer bib-Datei zugreift. Es gibt mehrere Möglichkeiten; das Paket apacite ist durchaus zu empfehlen. Wenn es mittels `\usepackage{apacite}` in der Präambel geladen ist und Deutsch als Sprache des Dokuments eingestellt ist, muss nur noch nach Einbinden der Bibliographiedatei (zum Beispiel `literatur.bib`) apacite als Bibliographiestil angegeben werden:
+
+    \bibliography{literatur}
+    \bibliographystyle{apacite}
+
+Zitiert wird über Befehle, die sich auf Kurzcodes zu den Datenbankeinträgen beziehen. Die Standardzitierweise von LaTeX entspricht nicht den APA-Standards und sollte daher nicht verwendet werden.
+
+Viele Websites bieten auch den direkten Export von Literaturangaben an, entweder in eines der verfügbaren Programme, in das bib-Format oder als APA-konformen Text. Die genannten Literaturverwaltungssoftwares bieten die Möglichkeit, Titelinformationen per Eingabe der ISBN oder DOI aus einer Online-Datenbank abzurufen. Solche automatisierten Hilfen sind allerdings durchaus fehleranfällig – häufig fehlen Autor\_innennamen, Bücher werden als Monographie statt als Sammelband angegeben und so weiter. Vor der Abgabe sollte man sich diese automatisch generierten Einträge also noch einmal besonders genau ansehen.

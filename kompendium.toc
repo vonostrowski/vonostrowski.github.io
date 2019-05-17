@@ -1,0 +1,61 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {german}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Vorwort}{3}{chapter*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Die Mathematikdidaktik an der Universität Bremen}{5}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Die AG Didaktik}{5}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Das Matelier}{7}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Das mathematikdidaktische Kolloquium}{7}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Wissenschaftliche Standards}{8}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Anmerkung zum Urheberrecht}{8}{section*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Quellenbelege im Text}{9}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Wörtliche Zitate}{9}{subsection.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Sinngemäße Zitate}{10}{subsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Verwendung von Fußnoten}{11}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Das Literaturverzeichnis}{11}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Monographie (ein durchgehendes Werk, im Gegensatz zum Sammelband) mit einem Autor/einer Autorin}{12}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Monographie mit mehreren Autor\_innen}{12}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Sammelband}{12}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Beitrag in einem Sammel- oder Tagungsband}{12}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Zeitschriftenartikel}{13}{section*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Internetquellen}{13}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Software als Hilfe}{13}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Hausarbeiten schreiben}{15}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Kurzleitfaden zum Schreiben einer Hausarbeit}{15}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Schreiben muss man lernen}{16}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Forschung mit personenbezogenen Daten}{18}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Weitere nützliche Hinweise}{19}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Fachgesellschaften}{19}{section.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Zeitschriften}{20}{section.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Datenbanken}{21}{section.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Weitere Ressourcen}{21}{section.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Literatur}{23}{chapter*.11}

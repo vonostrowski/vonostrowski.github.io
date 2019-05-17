@@ -1,0 +1,171 @@
+Weitere nützliche Hinweise
+==========================
+
+An dieser Stelle möchten wir Sie auf eine Auswahl an (Web-)Adressen
+hinweisen, die aus unserer professionellen Sicht besonders
+empfehlenswert sind.
+
+Fachgesellschaften
+------------------
+
+Wie jede wissenschaftliche Community ist auch die Mathematikdidaktik in
+nationalen und internationalen Fachgesellschaften organisiert, die ihren
+Mitgliedern und der interessierten Öffentlichkeit je nach Ausrichtung
+und verfügbaren Ressourcen Informationen bereitstellen.
+
+GDM
+
+:   In der *Gesellschaft für Didaktik der Mathematik* (GDM) organisieren
+    sich die Mathematikdidaktiker\_innen im deutschsprachigen Raum. Auf
+    der jährlichen Tagung erhält jede\_r Gelegenheit, aktuelle
+    Forschungsergebnisse und theoretische Überlegungen vorzustellen.
+    Daher können die *Beiträge zum Mathematikunterricht* (BzMU), in denen
+    alle Vorträge auf jeweils vier Seiten zusammengefasst werden, als
+    ein Überblick aktueller Forschung dienen. Die Beiträge zum
+    Mathematikunterricht seit 2005 finden sich im Internet
+    unter https://www.mathematik.tu-dortmund.de/ieem/cms/de/forschung/bzmu.html.
+
+    Zudem ist die GDM dabei, mit der [Madipedia](https://madipedia.de) ein
+    Nachschlagewerk ähnlich der Wikipedia aufzubauen, in der man sich
+    über Begriffe, Theorien und Personen informieren kann.
+
+ERME, PME und ICMI
+
+:   Auf internationaler Ebene haben sich Mathematikdidaktiker\_innen in
+    der *European Society for Research in Mathematics Education* (ERME)
+    sowie in den globalen Gesellschaften *International Group for the
+    Psychology of Mathematics Education* (meistens PME abgekürzt) und in
+    der *International Commission on Mathematical Instruction* (ICMI)
+    organisiert.^[Zusätzlich gibt es freilich auch in anderen Regionen der Welt
+    länderübergreifende Fachgesellschaften. Außerdem treten an
+    mathematikdidaktischer Forschung interessierte
+    Wissenschaftler\_innen in den fachmathematischen Gesellschaften und
+    verwandten Disziplinen wie der empirischen Bildungsforschung (hier
+    ist insbesondere die *Gesellschaft für empirsiche Bildungsforschung*
+    (GEBF) zu nennen), der Physikdidaktik oder der Lernpsychologie auf.] Auch hier werden zu den regelmäßig stattfindenden
+    Konferenzen (CERME, PME und ICME) Tagungsbände herausgegeben. Dabei
+    kann man im Allgemeinen davon ausgehen, dass die Beiträge
+    peer-reviewed sind, also einer gewissen
+    Qualitätskontrolle unterliegen.
+
+Zeitschriften
+-------------
+
+Weil sich die Mathematikdidaktik wissenschaftlich mit Praxis befasst,
+gibt es grundsätzlich zwei verschiedene Ausrichtungen von Zeitschriften
+in diesem Feld. Es gibt Zeitschriften, die sich hauptsächlich an
+Lehrer\_innen richten und – durchaus auf Basis wissenschaftlicher Arbeit
+– Hinweise für die alltägliche Arbeit in der Klasse geben. Dazu gehören
+
+-   mathematik lehren (Friedrich Verlag)
+
+-   PM – Praxis der Mathematik in der Schule (Friedrich Verlag)
+
+-   Der Mathematikunterricht (Friedrich Verlag)
+
+-   Mathematik 5-10 (Aulis)
+
+Daneben gibt es eine Reihe von Zeitschriften, die sich vor allem an
+Forscher\_innen richten. Sie sind überwiegend in Englisch gehalten. Ein
+Versuch, die wissenschaftlichen Zeitschriften der Mathematikdidaktik zu
+bewerten (und damit auch eine brauchbare Liste aller wichtigen
+internationalen Zeitschriften) wird von @toerner2012 beschrieben. Als Top-Journals
+gelten nach dieser Liste die folgenden Titel:
+
+-   Educational Studies in Mathematics
+
+-   Journal for Research in Mathematics Education
+
+-   For the Learning of Mathematics
+
+-   The Journal of Mathematical Behavior
+
+-   Journal of Mathematics Teacher Education
+
+-   Mathematical Thinking and Learning
+
+-   ZDM: The International Journal on Mathematics Education
+
+In der Staats- und Universitätsbibliothek Bremen sind die genannten
+Zeitschriften mit Ausnahme von *Mathematik 5-10* und *For the Learning of Mathematics*^[Eine Reihe von Ausgaben von *Mathematik 5-10* finden Sie im
+    Matelier. Die Artikel von *For the Learning of Mathematics* werden
+    auf deren Homepage nach etwa drei Jahren für alle Nutzer\_innen
+    freigeschaltet.] zumindest online verfügbar, außerdem liegen die
+folgenden Titel gedruckt vor:
+
+-   Mathematik in der Schule (Jahrgänge 1963-2000)
+
+-   Mathematics Teacher
+
+-   Journal für Mathematik Didaktik
+
+Eine sehr umfangreiche Aufstellung der Zeitschriften mit
+mathematikdidaktischen Inhalten stellte Samuel Otten auf Wikispaces zur Verfügung. Da das Hosting eingestellt wurde, gibt es nur noch eine [archivierte Version](https://web.archive.org/web/20180724110150/https://mathedjournals.wikispaces.com/).
+
+Datenbanken
+-----------
+
+Die Vielzahl der Zeitschriften macht es fast unmöglich, durch einfaches
+Durchblättern das zu finden, was man gerade braucht. Daher sind
+Datenbanken eine wertvolle Hilfe. Für die Mathematikdidaktik gibt es
+drei relevante Datenbanken, die zwar teilweise kostenpflichtig sind, aus
+dem Netz der Universität aber kostenlos abgerufen werden können:
+
+MathEduc
+
+:   [www.zentralblatt-math.org/matheduc/](https://www.zentralblatt-math.org/matheduc/) – Sehr umfangreiche Datenbank,
+    insbesondere sind auch so gut wie alle deutschsprachigen
+    Titel enthalten.
+
+FIS Bildung
+
+:   [www.fachportalpaedagogik.de/fis\_bildung](https://www.fachportalpaedagogik.de/fis_bildung) – Geht über die
+    Mathematikdidaktik hinaus.
+
+ERIC
+
+:   [eric.ed.gov](https://eric.ed.gov) – Hauptsächlich englischsprachige Publikationen, teilweise mit direkten Verweisen auf downloadbare Volltexte.
+
+Für bestimmte Themen lohnt es sich zu schauen, ob vielleicht schon andere die Literatur dazu gesichtet haben. Hilfreiche Suchbegriffe sind "survey", "literature review" und "meta-study". Folgende Angebote sind besonders hervorzuheben:
+
+Clearing House Unterricht
+
+:   [www.clearinghouse.edu.tum.de/](https://www.clearinghouse.edu.tum.de/) – Verfolgt das Ziel, "aktuelle wissenschaftliche Erkenntnisse zu effektivem MINT-Unterricht zusammenzufassen und für die Lehrerbildung zielgruppengerecht aufzubereiten".
+
+ICME-13 Topical Surveys
+
+:   [rd.springer.com/bookseries/14352](https://rd.springer.com/bookseries/14352) – Anlässlich der ICME-13, die 2016 in Hamburg stattfand, wurden renommierte Mathematikdidaktiker_innen gebeten, einen aktuellen Überblick zu Feldern zu erstellen, in denen sie Expert_innen sind. Ergebnis sind 26 Broschüren, die kostenlos herunterzuladen sind.
+
+Weitere Ressourcen
+------------------
+
+Online findet man viele wertvolle Hilfestellungen. Die hier
+aufgelisteten Webseiten können einen Einstieg bilden. Dort, wo
+User-generierte Inhalte angeboten werden, sollte man jedoch stets selbst
+ihre mathematische, didaktische und technische Qualität kritisch prüfen,
+bevor man sie selbst einsetzt. Und selbstverständlich gilt auch hier:
+Nennen Sie Ihre Quellen!
+
+Geogebra
+
+:   [Geogebra](https://www.geogebra.org) ist ein kostenlos downloadbares Open
+    Source-Programm, das als dynamische Geometrie-Software konzipiert
+    wurde, aber auch den Umgang mit algebraischen Ausdrücken erlaubt.
+    Inzwischen wurde darüber hinaus eine Tabellenkalkulation sowie ein
+    3D-Modus integriert – insgesamt ein unschätzbar wertvolles Werkzeug
+    für (werdende) Lehrer\_innen. Online wird eine Fülle von
+    Lernumgebungen aus der Community bereit gestellt.
+
+ZUM-Wiki
+
+:   Das [ZUM-Wiki](https://wiki.zum.de) stellt eine Plattform bereit, auf der
+    Lernumgebungen von Lehrer\_innen eingesehen und modifiziert und
+    direkt von Schüler\_innen bearbeitet werden können.
+
+MUED e.V.
+
+:   In der [Mathematik-Unterrichts-Einheiten-Datei](https://www.mued.de) können (zahlende) Mitglieder Unterrichtsdateien herunterladen.
+
+DZLM
+
+:   Das [Deutsche Zentrum für Lehrerbildung Mathematik](https://www.dzlm.de) wurde 2011 ins Leben gerufen und stellt auf seiner Website vor allem Informationen zu Fort- und Weiterbildungen zur Verfügung. Darüber hinaus wird Lehrmaterial aus anderen Projekten verlinkt.

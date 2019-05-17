@@ -1,0 +1,47 @@
+--- 
+title: "Kompendium zum wissenschaftlichen Arbeiten"
+subtitle: "herausgegeben von der AG Didaktik im Fachbereich 3 der Universität Bremen"
+description: "Eine Handreichung für Studierende im Mathematiklehramt mit hilfreichen Informationen zur AG Didaktik im FB3 der Universität Bremen und zum erfolgreichen wissenschaftlichen Arbeiten in der Mathematikdidaktik."
+author: "Thomas Janßen"
+date: "Version 7 · Oktober 2018"
+license: Creative Commons Zero v1.0 Universal
+site: bookdown::bookdown_site
+graphics: yes
+documentclass: scrbook
+classoption: [bibliography=totoc,oneside,12pt,a4paper]
+lang: de
+output:
+  bookdown::pdf_book:
+    includes:
+      in_header: preamble.tex
+    citation_package: biblatex
+    template: null
+bibliography: [literatur.bib]
+biblatexoptions: [refsegment=chapter]
+csl: apa-de.csl
+link-citations: yes
+biblio-style: apa
+cover-image: logoagdidaktik.png
+---
+
+# Vorwort {-}
+
+Liebe Student\_innen,
+
+in Anlehnung an den Studiengang Politikwissenschaft, der seinen Studierenden schon lange ein Kompendium zum Wissenschaftlichen Arbeiten an die Hand gibt [@autorengruppe2012], bieten auch wir in der AG Didaktik unseren Studierenden seit 2013 ein solches Machwerk an.
+
+Primäre Motivation ist es, Ihnen eine verlässliche Information darüber zu geben, welche wissenschaftlichen Standards wir in der AG Didaktik für selbstverständlich halten und dementsprechend in Haus-, Bachelor- und Masterarbeiten anlegen. Nach einer Vorstellung der Arbeitsgruppe besteht der Kern dieses Kompendiums daher in einer Kurzanleitung zum richtigen Zitieren. Zusätzlich haben wir einige Informationen zusammengestellt, die Ihnen helfen können, nicht nur formal korrekte, sondern auch wirklich gute Arbeiten zu schreiben: Sie finden einen Leitfaden zum Schreiben von Hausarbeiten, einen kurzen Überblick darüber, was Sie beachten müssen, wenn Sie mit personenbezogenen Daten (etwa von Schüler\_innen) arbeiten, sowie eine Auflistung von Online-Ressourcen, die Ihnen den Zugang zur Mathematikdidaktik erleichtern können.
+
+Das Kompendium kann und soll im praktischen Gebrauch reifen, und so freuen wir uns über Hinweise darauf, welche Informationen unter Umständen noch fehlen. Sprechen Sie mich gerne persönlich an oder schreiben Sie mir eine E-Mail an <janssent@uni-bremen.de>.
+
+Ansonsten arbeiten wir von uns aus daran, das Kompendium reichhaltiger und zugänglicher zu machen. Da die meisten von Ihnen wahrscheinlich ohnehin am Computer arbeiten, erschien uns ein PDF nicht mehr das optimale Format. Stattdessen ist das Kompendium ab sofort als Online-Buch auf unserer Homepage abzurufen.^[Bei der Umsetzung war uns Moritz Bergenthal behilflich, dessen Stelle das [Zentrum für  Multimedia in der Lehre](https://www.uni-bremen.de/zmml/) im Rahmen des [Win a tutor-Programms](https://www.uni-bremen.de/zmml/projekte/win-a-tutor-e-learning-anwendungsszenarien/) gefördert hat.] Wer es jedoch ausdrucken oder auf einem E-Book-Reader lesen möchte, kann mit einem Klick auf das entsprechende Symbol in der Leiste oben ein PDF oder eine epub-Datei herunterladen. Im Zuge dieser Modernisierung schreiben wir die meisten Weblinks nicht mehr aus -- wenn Sie sich also beim Lesen Ihres Ausdrucks fragen, wie Sie nun eine bestimmte Webseite erreichen, finden Sie im Online-Dokument oder in der PDF-Datei einen klickbaren Link.
+
+Ein Punkt, der im Kompendium nicht angesprochen wird, ist der der geschlechtergerechten Sprache. Es ist der Universität Bremen ein Anliegen, darauf zu achten, dass niemand durch die Wahl der sprachlichen Mittel ausgeschlossen wird. Dazu, wie dies geschieht, machen wir hier keine Vorgaben. In diesem Dokument werden jedoch entweder genderneutrale Begriffe oder die Unterstrich-Schreibweise verwendet. Bei ihr fügt man zwischen männlicher und weiblicher Form einen Unterstrich ein, um darauf hinzuweisen, dass auch geschlechtliche Identitäten mitgedacht werden, die durch das dualistische Konzept von Mann und Frau nicht erfasst werden. Manchmal stößt diese Methode jedoch an ihre Grenzen, etwa wenn mehrere Wörter gebeugt werden. Hier wurde in diesen Fällen auf die klassische Schrägstrich-Schreibweise zurückgegriffen. Dies kann Ihnen vielleicht als Anschauung und Entscheidungshilfe bei der Entwicklung Ihres eigenen Stils dienen.
+
+Viel Freude und Erfolg im Studium wünscht Ihnen im Namen aller Mitglieder der AG Didaktik
+
+Thomas Janßen
+
+---
+
+> Dieses Kompendium unterliegt der Lizenz *Creative Commons Zero v1.0 Universal*, die unter https://github.com/janssent/kompendium-bkdwn/blob/master/LICENSE eingesehen werden kann. Es darf damit in sämtlichen Formaten frei verwendet und weiterentwickelt werden. Insbesondere besteht die Möglichkeit, ausgehend vom unter https://github.com/janssent/kompendium-bkdwn bereitgestellten Quellcode eine eigene Version zu entwickeln.

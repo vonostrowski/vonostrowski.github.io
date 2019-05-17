@@ -1,0 +1,88 @@
+#Die Mathematikdidaktik an der Universität Bremen
+
+Die AG Didaktik
+---------------
+
+Die AG Didaktik im Fachbereich 3 umfasst alle diejenigen
+Mitarbeiter\_innen, die sich in Forschung und Lehre mit der Didaktik der
+Mathematik auseinandersetzen. Geleitet wird diese Gruppe von Prof. Dr. Christine Knipping und Prof. Dr. Maike Vollstedt. Langjährige Erfahrungen in der Schulpraxis, in der Förderung
+von Lernenden und in der Aus- und Fortbildung von Lehrkräften,
+vielfältige Erfahrungen in der mathematischen und mathematikdidaktischen
+Forschung kommen in unserer AG Didaktik der Mathematik zusammen. Die
+Vielfalt unserer Kompetenzen nutzen wir, um im Rahmen von
+Lehrer\_innenausbildung und mathematikdidaktischer Forschung mit- und
+voneinander zu lernen. Unser gemeinsames Forschungsinteresse ist es,
+mehr theoretische und praktische Einsicht in Prozesse der mathematischen
+Wissenskonstruktion und deren fördernde und behindernde Bedingungen zu
+gewinnen.
+
+```{r ID, fig.cap="Die Mitglieder der AG Didaktik. Es fehlen Angelika Bikner-Ahsbahs, Uwe Schallmeier, Daniela Schansker und Mareike Best.", echo = FALSE}
+knitr::include_graphics('ag_web_bw.jpg')
+```
+
+Zentraler Grundsatz in der Lehrer\_innenausbildung ist eine möglichst
+enge Verzahnung von theoretischem und praktischem Wissen. Das bedeutet:
+
+-   eine möglichst frühe Einbindung von Studierenden in die
+    mathematikdidaktische Forschung,
+
+-   das Aufgreifen von Forschungsergebnissen in die praxisbezogene
+    Ausbildung,
+
+-   das Aufnehmen von Praxiserfahrungen in die elementarmathematische
+    und mathematikdidaktische Lehrer\_innenausbildung und
+
+-   eine didaktisch angereicherte
+    elementarmathematische Lehrerinnenausbildung.
+
+Als Arbeitsgemeinschaft, die in eine größere Institution eingebunden
+ist, tragen wir zur Kommunikation mit anderen Arbeitsgruppen bei, indem
+wir uns in einem breiten Umfang an der universitären Selbstverwaltung
+beteiligen.
+
+Die Mitarbeiter\_innen der AG Didaktik haben ihre Büros in der 6. Ebene
+des MZH. Dort stehen sie zu ihren jeweiligen Sprechzeiten gerne für
+Fragen zur Verfügung.
+
+Auch im Fachbereich 12 gibt es eine AG Mathematikdidaktik, deren
+Schwerpunkt im Primar- und Elementarbereich liegt. Die beiden AGs stehen
+im engen Austausch und bereichern sich mit ihrer Arbeit gegenseitig.
+
+Das Matelier
+------------
+
+Ein Ausdruck der Zusammenarbeit zwischen den Mathematikdidaktik-AGs in
+den Fachbereichen 3 und 12 ist das *Matelier*, das seit 2011 gemeinsam
+betrieben wird. Es befindet sich im Raum MZH 2495 und beherbergt eine
+reiche Sammlung an didaktischen Materialien. Neben nahezu allen gängigen
+Schulbüchern werden vor allem Spielzeug und Bastelmaterial sowie
+grafische und mechanische Hilfsmittel in Vitrinen dargestellt, die als
+Inspiration für einen aktiven Zugang zur Mathematik dienen können. Viele
+Materialien können von den Studierenden der Universität zudem
+ausgeliehen werden, sei es zur Verwendung im Schulpraktikum oder in
+einer unserer Lehrveranstaltungen.
+
+Die aktuellen Öffnungszeiten des Mateliers sind (Stand Oktober 2018, für Aktualisierungen und Ausnahmen siehe [www.matelier.uni-bremen.de](https://www.matelier.uni-bremen.de)):
+
+-   dienstags von 15:45 bis 17:45 Uhr
+
+-   mittwochs von 14:00 bis 16:00 Uhr
+
+-   donnerstags von 12:00 bis 14:00 Uhr
+
+Außerdem ist das Matelier auch ein Tor zur Mathematik für viele
+Schüler\_innen, die die Universität besuchen, sei es im Rahmen der
+regelmäßigen *Forschertage* oder der jährlich stattfindenden
+*Kinder-Uni*. Dabei gibt es auch immer wieder Gelegenheit für
+Studierende, sich aktiv an Planung und Durchführung zu beteiligen.
+
+Nähere Informationen finden Sie unter [www.matelier.uni-bremen.de](https://www.matelier.uni-bremen.de).
+
+
+Das mathematikdidaktische Kolloquium
+------------------------------------
+
+Zwei bis drei mal im Semester findet im Rahmen des mathematischen
+Kolloquiums ein mathematikdidaktischer Vortrag eines interessanten Gasts
+von außerhalb statt. Auf diese Vorträge und ähnliche besondere Events
+wird auf der [Homepage der AG Didaktik](http://www.math.uni-bremen.de/didaktik/) hingewiesen.

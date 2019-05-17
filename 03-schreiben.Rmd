@@ -1,0 +1,133 @@
+Hausarbeiten schreiben
+======================
+
+Kurzleitfaden zum Schreiben einer Hausarbeit
+--------------------------------------------
+
+Im Folgenden werden diejenigen Elemente einer Hausarbeit dargestellt,
+die typischerweise erwartet werden. Je nachdem, zu welchem Thema Sie
+schreiben und welche thematische Ausrichtung die Arbeit hat, können
+bestimmte Aspekte weniger wichtig sein oder andere hinzukommen. Auch ist
+eine andere Gliederung denkbar, etwa wenn sich der Stand der Forschung
+und der Theoretische Hintergrund nicht klar trennen lassen. Sprechen Sie
+im Zweifel einfach den/die jeweilige\_n Veranstalter\_in an.
+
+Einleitung
+
+:   Schildern Sie die persönlichen, vor allem aber die fachlichen Gründe
+    für die Wahl ihres Themas, grenzen es begrifflich ein und nennen sie
+    eine erste allgemeine Fragestellung.^[In einer größeren Arbeit kann die Diskussion der Forschungsfrage
+    auch in einem eigenen Kapitel erfolgen.] Seien sie so präzise
+    wie möglich. Es empfiehlt sich, die Einleitung am Ende noch einmal
+    gegenzulesen und gegebenenfalls zu überarbeiten. Sie sollte
+    gemeinsam mit dem Schlusskapitel eine Klammer um die Arbeit bilden.
+
+Stand der Forschung
+
+:   Stellen Sie anhand relevanter Literatur den aktuellen Stand der
+    Forschung dar. Zusätzlich kann ggf. darauf eingegangen werden, wie
+    das zu behandelnde Thema in Schulbüchern und im
+    Bildungsplan vorkommt. Daraus entwickelt sich häufig eine
+    präzisere Fragestellung.
+
+Theoretischer Hintergrund
+
+:   Je nach Umfang der Gesamtarbeit werden hier wichtige Konzepte zum
+    Thema und theoretische Überlegungen vertieft diskutiert.
+
+Methodisches Vorgehen
+
+:   Grundsätzlich kann man zwischen Erhebungs- und
+    Analysemethoden unterscheiden. Zu den Erhebungsmethoden gehört nicht
+    nur, wie sie konkret Daten aufnehmen (schriftlich, als Ton- oder
+    Videoaufnahme), sondern auch Vorüberlegungen zur Klasse, zu den
+    gegebenen Bedingungen und zu den Lernvoraussetzungen. Wenn Sie
+    Schüler\_innen mit einer Aufgabe konfrontieren, erklären Sie diese
+    Aufgabe und ihren mathematischen Gehalt vor dem Hintergrund der
+    Fragestellung und des theoretischen Hintergrunds. Zusätzlich kann
+    eine a priori-Analyse sinnvoll sein, in der erwartete
+    Schüler\_innenlösungen und Abläufe (eventuell in Unterscheidung von
+    optimalem Ablauf und suboptimalem Ablauf) reflektiert werden.
+
+    In den Analysemethoden muss vorab geklärt werden, worauf geschaut
+    werden soll und was man erwartet. Auch dies hängt entscheidend von
+    der Fragestellung und dem theoretischen Hintergrund ab.
+
+    Je nach Anspruch der Arbeit werden den Methoden methodologische
+    Überlegungen vorangestellt, also eine Reflexion der theoretischen
+    Begründung der gewählten Methoden. Welche Daten wollen Sie wie warum
+    erheben – Multiple Choice, offenes Antwortformat, Interview,
+    Videobeobachtung? Wie passt das zur Theorie und wie greift die
+    Theorie auf diese Daten zu?
+
+Auswertung
+
+:   Beschreiben Sie zunächst die tatsächliche Situation der
+    Datenerhebung, auch was anders war als angenommen. Auf dieser Basis
+    können Sie eventuell ihre Fragestellung nochmals begründet anpassen.
+
+    Dann gehen sie daran, entsprechend den zuvor beschriebenen
+    Analysemethoden ihre Fragestellung zu beantworten. Als Antwort
+    erhalten Sie unter Umständen nur Hypothesen, die noch weitere
+    Überprüfung erfordern. In diesem Fall reflektieren Sie, wie die
+    Methoden gegebenenfalls angepasst werden müssen.
+
+Ergebnis(se)
+
+:   Nun können Sie ihre Antwort(en) auf die Fragestellung begründet und
+    nachvollziehbar darstellen. Hier kann bereits ein Rückbezug zum
+    zuvor dargestellten Stand der Forschung hergestellt werden.
+
+Rückblick und Ausblick
+
+:   Schließlich geht es darum, die geleistete Arbeit in einen größeren
+    Rahmen zu stellen. Hier können Sie Ihre eigene Untersuchung nochmals
+    kritisch reflektieren, Erkenntnisse würdigen, die Sie für sich
+    gewonnen haben und Empfehlungen für weitere Untersuchungen geben.
+
+Literaturverzeichnis
+
+:   Geben Sie wie im vorangegangenen Kapitel beschrieben alle
+    verwendeten Quellen an, aber keine, die nicht im Text vorkommen.
+
+Anhänge
+
+:   Fügen Sie der Arbeit (ggf. auf einer CD) all das bei, was zu ihrem
+    Verständnis notwendig ist. Dazu gehören Feldnotizen, Transkripte,
+    Kopien oder Fotos von Schüler\_innenprodukten sowie zusammenfassende
+    Grafiken oder Tabellen. Ohne diese Dokumente ist Ihre Arbeit
+    unvollständig!
+
+Schreiben muss man lernen
+-------------------------
+
+Manchen geht das Schreiben von Hausarbeiten gut von der Hand – meistens,
+weil sie außerhalb der Mathematikdidaktik bereits Erfahrungen damit
+gesammelt haben, die ihnen hier helfen. Doch auch wer nicht ein eigenes
+Blog betreibt oder in seinem Zweitfach jedes Semester dutzende Seiten
+schreibt, kann das wissenschaftliche Schreiben lernen:
+
+Die Studierwerkstatt
+
+:   der Uni Bremen bietet gegen geringe Gebühren diverse Kurse und
+    Begleitung beim Schreiben an – teilweise sogar anrechenbar als
+    General Studies. Das aktuelle Kursangebot lässt sich [hier](https://www.uni-bremen.de/studierwerkstatt/programm/) einsehen.
+
+Der Bremer Schreibcoach
+
+:   ist ein von Kolleg\_innen am Fachbereich 10 entwickeltes
+    [Onlineprogramm](http://www.bremer-schreibcoach.uni-bremen.de/), in das man an verschiedenen Stellen einsteigen kann, je nach aktuellen Bedürfnissen.
+
+Die Schreibwerkstatt MINT
+
+:   der Uni Bremen fokussiert auf das Schreiben
+    naturwissenschaftlich"=technischer Texte, dürften also vor allem für
+    das Schreiben fachlicher Arbeiten in Mathematik oder im zweiten Fach
+    hilfreich sein, manches ist aber sicher auf Arbeiten in der
+    Didaktik übertragbar. Weitere Infos gibt es unter
+    http://www.uni-bremen.de/schreibwerkstatt-mint.
+
+Das Fremdsprachenzentrum
+
+:   hat [Angebote für Studierende](http://www.fremdsprachenzentrum-bremen.de), für die Deutsch die zweite, dritte
+    oder vierte Sprache ist.

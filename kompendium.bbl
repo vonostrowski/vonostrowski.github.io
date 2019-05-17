@@ -1,0 +1,92 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{autorengruppe2012}{manual}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=f4e63f19c18db8de6ec9f06d4db54ad3}{%
+           family={{Institut für Politikwissenschaft}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4e63f19c18db8de6ec9f06d4db54ad3}
+      \strng{fullhash}{f4e63f19c18db8de6ec9f06d4db54ad3}
+      \strng{bibnamehash}{f4e63f19c18db8de6ec9f06d4db54ad3}
+      \strng{authorbibnamehash}{f4e63f19c18db8de6ec9f06d4db54ad3}
+      \strng{authornamehash}{f4e63f19c18db8de6ec9f06d4db54ad3}
+      \strng{authorfullhash}{f4e63f19c18db8de6ec9f06d4db54ad3}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{6. September 2018}
+      \field{title}{{K}ompendium. {H}inweise zum wissenschaftlichen {A}rbeiten. {S}tudiengang {P}olitikwissenschaft}
+      \field{year}{2016, Oktober}
+      \verb{urlraw}
+      \verb http://www.politik.uni-bremen.de/ccm/info/materialien/kompendium-hinweise-zum-wissenschaftlichen-arbeiten.de
+      \endverb
+      \verb{url}
+      \verb http://www.politik.uni-bremen.de/ccm/info/materialien/kompendium-hinweise-zum-wissenschaftlichen-arbeiten.de
+      \endverb
+    \endentry
+    \entry{toerner2012}{manual}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=0b83053740f0a575f121dd006831b3ae}{%
+           family={Toerner},
+           familyi={T\bibinitperiod},
+           given={Guenter},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=100b484a79b8a6bcdac44ac8afc5173e}{%
+           family={Arzarello},
+           familyi={A\bibinitperiod},
+           given={Ferdinando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a39ce5270cfd0aca24300c95a8945a94}
+      \strng{fullhash}{a39ce5270cfd0aca24300c95a8945a94}
+      \strng{bibnamehash}{a39ce5270cfd0aca24300c95a8945a94}
+      \strng{authorbibnamehash}{a39ce5270cfd0aca24300c95a8945a94}
+      \strng{authornamehash}{a39ce5270cfd0aca24300c95a8945a94}
+      \strng{authorfullhash}{a39ce5270cfd0aca24300c95a8945a94}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{2. Juli 2015}
+      \field{title}{{G}rading {M}athematics {E}ducation {R}esearch {J}ournals}
+      \field{year}{2012, Dezember}
+      \verb{urlraw}
+      \verb http://www.euro-math-soc.eu/ems_education/Ranking_Journals_Project.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.euro-math-soc.eu/ems_education/Ranking_Journals_Project.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
